@@ -1,6 +1,6 @@
-In this project i am working with the Front-end technologies such as HTML,CSS, and JavaScript - For Fatching real time climate information i have to 
-use Weather API the rrequest the actual Server and provides real original CLimate information city by city.
-Here is my Code Files Bellow.
+In this project i am working with the Front-end technologies such as HTML,CSS, and JavaScript - For fatching real time climate information i have to 
+use weather API the request the actual server and provides real original climate information city by city.
+Here is my Code files Bellow.
 -
 -
 -
